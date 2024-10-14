@@ -1,0 +1,11 @@
+title: Best Gadgets Guru
+description: Your go-to source for the latest gadgets and reviews.
+theme: minima
+
+navigation:
+  - name: Home
+    link: /
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
