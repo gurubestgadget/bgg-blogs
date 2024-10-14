@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to Best Gadgets Guru!
 
-![Gadget Banner](bgg-blogs/assets/gadget-banner.png)
+![Gadget Banner]({{ site.baseurl }}/assets/gadget-banner.png)
 *Image credits: Chatgpt
 
 Discover the world of cutting-edge technology, where we bring you the latest reviews, top recommendations, and expert guides on all things gadgets! Whether you're looking for the best TVs, smartphones, or gaming accessories, we’ve got you covered. Our mission is to help you find the perfect tech to enhance your lifestyle.
@@ -16,7 +16,7 @@ Explore our in-depth reviews, buying guides, and expert advice on the best gadge
 
 ## Recently Featured Blogs
 
-### [Top 10 TVs of 2024 – Find Your Ultimate Viewing Experience](bgg-blogs/tvs/top-10-tvs-2024)
+### [Top 10 TVs of 2024 – Find Your Ultimate Viewing Experience](/tvs/top-10-tvs-2024)
 Explore the best televisions of 2024, from budget-friendly options to the most advanced OLED and QLED models. Whether you're a movie lover or a gamer, our comprehensive guide has the right TV for you.
 
 ---
