@@ -16,7 +16,7 @@ Explore our in-depth reviews, buying guides, and expert advice on the best gadge
 
 ## Recently Featured Blogs
 
-### [Top 10 TVs of 2024 – Find Your Ultimate Viewing Experience](/blog/2024-10-14-top-10-tvs-2024.md)
+### [Top 10 TVs of 2024 – Find Your Ultimate Viewing Experience](/tvs/2024/top-10-tvs-2024)
 Explore the best televisions of 2024, from budget-friendly options to the most advanced OLED and QLED models. Whether you're a movie lover or a gamer, our comprehensive guide has the right TV for you.
 
 ---
