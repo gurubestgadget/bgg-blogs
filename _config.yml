@@ -1,8 +1,8 @@
 title: Best Gadgets Guru
 description: Your go-to source for the latest gadgets and reviews.
 theme: minima
-
 permalink: /:categories/:title/
+
 
 navigation:
   - name: Home
